@@ -1,3 +1,12 @@
+# Product-Order Chain
+Projede gerekli tüm isterlere özel modeller ve EP. ler gerekli şekilde oluşturulmuştur.
+Kupon olarak 2 farklı model kullanılmıştır.Müşteri özelinde kupon tanımlama ve ürün genelinde kupon tanımlama işlemleri gerçekleşmektedir.
+EP. kontrolleri için ayrıca Swagger UI projeye implement edilerek görsel olarak sadelik ve hız açısından kolaylık sağlamıştır.
+![projectSwaggerUI](https://user-images.githubusercontent.com/72404480/166919889-8f5684c3-2d03-44a5-9d70-4c431a3f44d5.JPG)
+
+*******************************************************************************************************************************************************
+
+
 # fourth-week-homework
 
 Merhaba arkadaşlar,
